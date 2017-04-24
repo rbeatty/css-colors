@@ -1,6 +1,6 @@
 # CSS Colors
 
-A list of default CSS color names and their values.
+A list of CSS default color names and their values. [Color Chart](https://rbeatty.github.io/css-colors/)
 
 ### Reds
 
